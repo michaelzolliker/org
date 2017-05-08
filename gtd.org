@@ -1,0 +1,74 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+#+TODO: TODO IN-PROGRESS WAITING DONE
+
+
+* Welcome to org-mode
+
+* 
+  
+  Welcome, and thanks for trying out Org-mode. Making outlines in
+  org is very simple. It is just text! Just start typing.
+* This is a headline, it/ starts with one or more stars
+  A heading has one star, a sub-heading two, etc.
+* Working with lists
+** Moving around
+ in our outline
+** Moving around headlines
+
+* GTD related things
+** TODO Weekly Review
+
+
+
+* Work
+** MiFID
+*** TODO CRM Issue Handling in AFP anschauen
+*** TODO Aktuelle Direktive einarbeiten
+*** TODO VB Open Points
+** Spira
+*** TODO VT All-in-Fee
+*** TODO VT Price Update
+*** TODO VB Price Update
+** CR
+*** VB Initial Margin 
+*** QB Börsenplatzänderung Nadir, Kazankaya, Matzner 
+*** CR JB 272
+** OTRS
+*** TODO JB Szenario Prices http://ticket/otrs/index.pl?Action=AgentTicketZoom;TicketID=151466 
+** Mail
+*** DONE Manuel Sunkar: Balz, Schweizer, Container Freeze
+    CLOSED: [2017-04-27 Do 08:56]
+** Upgrade      
+*** TODO IPS Open-/Close-Date review 
+** Review
+
+
+** Admin
+*** Flüge und Hotel für Juni/Juli buchen
+* Home 
+** DONE HiFi Regal: Stelle fotografieren
+   CLOSED: [2017-05-08 Mo 13:11]
+** DONE Euthyrox Rezept bestellen
+   CLOSED: [2017-04-27 Do 08:57]
+** TODO Rückforderung DHL Mail schreiben
+** DONE Euthyrox abholen
+   CLOSED: [2017-05-08 Mo 16:57]
+** WAITING Stuhlhalter: Mail an Ikarus schreiben
+** DONE Alex bzgl. GBD antworten
+   CLOSED: [2017-04-27 Do 08:57]
+** TODO Digitalstrom einrichten
+** TODO Tennis abmelden
+** DONE Neuer Anzug kaufen
+   CLOSED: [2017-05-08 Mo 13:11]
+** TODO Golf lernen
+** TODO Fliegen lernen
+*** DONE Infoabend anmelden
+    CLOSED: [2017-05-08 Mo 13:10]
+*** TODO MFGZ Infoabend teilnehmen
+* Business
+** Barauslagen abrechnen
+   :LOGBOOK:
+   CLOCK: [2017-05-08 Mo 17:11]
+   :END:
+  
